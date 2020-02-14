@@ -5,7 +5,7 @@ metadata:
   labels:
     app: frontend
 spec:
-  minReadySeconds: 5
+  minReadySeconds: 4
   revisionHistoryLimit: 5
   progressDeadlineSeconds: 60
   strategy:
